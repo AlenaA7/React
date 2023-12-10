@@ -1,0 +1,10 @@
+.task {
+    background: #d4d4d4;
+}
+:hover.task{
+    background-color: #00ffaa;
+}
+.madeTask {
+    background: #15ff00;
+
+}
